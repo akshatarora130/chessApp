@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@repo/common": "*",
     "@types/ws": "^8.5.10",
     "chess.js": "^1.0.0-beta.8",
     "esbuild": "^0.21.1",
