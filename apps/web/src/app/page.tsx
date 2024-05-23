@@ -1,9 +1,10 @@
-const Page = (): JSX.Element => {
+"use client"
+
+const Page = () => {
   return (
-      <>
-
-      </>
+    <>
+    </>
   );
-}
+};
 
-export default Page
+export default Page;

@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ebcaca6-244e-4980-ac8b-652ae8e04291" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/web/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/ws/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/apps/ws/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/ws/src/Game.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/ws/src/Game.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/ws/src/GameManager.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/ws/src/GameManager.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/ws/src/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/apps/ws/src/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/ws/src/message.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/web/src/app/play/random/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/apps/web/src/app/play/random/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +50,8 @@
       <updated>1715341470255</updated>
       <workItem from="1715341471509" duration="54000" />
       <workItem from="1715431945802" duration="6000" />
+      <workItem from="1716381989249" duration="15000" />
+      <workItem from="1716422916616" duration="19000" />
     </task>
     <servers />
   </component>
