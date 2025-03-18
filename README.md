@@ -4,4 +4,5 @@
 - Tech Stack: WebSockets, Next.js, TypeScript
 
 
-DEMO VIDEO : https://pub-06a3c152459442c4b04c4870d49d98f2.r2.dev/chessapp.mp4
+https://github.com/user-attachments/assets/bf044647-2105-4ab1-b001-9f40025a2d99
+
